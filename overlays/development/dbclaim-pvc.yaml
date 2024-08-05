@@ -4,7 +4,7 @@ metadata:
   labels:
     app: mysql-pv-claim
     name: random
-  name: random
+  name: frontend
   namespace: mysql
 spec:
   accessModes:
