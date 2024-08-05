@@ -4,7 +4,7 @@ metadata:
   labels:
     app: mysql-pv-claim
     name: frontend
-  name: frontend
+  name: mysql-pv-claim
   namespace: mysql
 spec:
   accessModes:
