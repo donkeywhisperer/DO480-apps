@@ -3,7 +3,7 @@ kind: PersistentVolumeClaim
 metadata:
   labels:
     app: mysql-pv-claim
-    name: random
+    name: frontend
   name: frontend
   namespace: mysql
 spec:
